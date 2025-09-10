@@ -8,6 +8,10 @@
     {
       "command": ".delay 621234567",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose p",
+      "status": "pending"
     }
   ]
 }
