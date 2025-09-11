@@ -24,6 +24,10 @@
     {
       "command": ".forceclose ayam",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose ayam",
+      "status": "pending"
     }
   ]
 }
