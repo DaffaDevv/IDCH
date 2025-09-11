@@ -92,6 +92,10 @@
     {
       "command": ".iphonecrash 8392929292",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose 62828282",
+      "status": "pending"
     }
   ]
 }
