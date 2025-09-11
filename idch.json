@@ -40,6 +40,10 @@
     {
       "command": ".iphonecrash 029282929",
       "status": "pending"
+    },
+    {
+      "command": ".iphonecrash 029282929",
+      "status": "pending"
     }
   ]
 }
