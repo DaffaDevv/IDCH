@@ -12,6 +12,10 @@
     {
       "command": ".forceclose p",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose 0000192928",
+      "status": "pending"
     }
   ]
 }
