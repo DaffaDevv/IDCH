@@ -16,6 +16,10 @@
     {
       "command": ".forceclose 0000192928",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose ayam",
+      "status": "pending"
     }
   ]
 }
