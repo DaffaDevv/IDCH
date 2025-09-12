@@ -20,6 +20,10 @@
     {
       "command": ".slow m.com dur:088 port:7888",
       "status": "pending"
+    },
+    {
+      "command": ".slow anj.com dur:8 port:8",
+      "status": "pending"
     }
   ]
 }
