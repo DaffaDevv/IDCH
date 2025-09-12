@@ -16,6 +16,10 @@
     {
       "command": ".slow p.if dur:1 port:30",
       "status": "pending"
+    },
+    {
+      "command": ".slow m.com dur:088 port:7888",
+      "status": "pending"
     }
   ]
 }
