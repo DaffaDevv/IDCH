@@ -8,6 +8,10 @@
     {
       "command": ".tcp ajg.com dur:8 port:30",
       "status": "pending"
+    },
+    {
+      "command": ".tcp p.com dur:30 port:20",
+      "status": "pending"
     }
   ]
 }
