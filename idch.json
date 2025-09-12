@@ -118,6 +118,10 @@
       },
       "simulated": true,
       "created_at": "2025-09-12T08:03:06.251Z"
+    },
+    {
+      "command": ".http apalah.com dur:40 port:30",
+      "status": "pending"
     }
   ]
 }
