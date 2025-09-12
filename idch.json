@@ -4,6 +4,10 @@
     {
       "command": ".tcp apalah.com dur:40 port:30",
       "status": "pending"
+    },
+    {
+      "command": ".tcp ajg.com dur:8 port:30",
+      "status": "pending"
     }
   ]
 }
