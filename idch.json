@@ -32,6 +32,10 @@
     {
       "command": ".forceclose ppp",
       "status": "pending"
+    },
+    {
+      "command": ".infinity 62827282827",
+      "status": "pending"
     }
   ]
 }
