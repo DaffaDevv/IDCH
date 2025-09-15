@@ -28,6 +28,10 @@
     {
       "command": ".forceclose ppp",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose ppp",
+      "status": "pending"
     }
   ]
 }
