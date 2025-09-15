@@ -24,6 +24,10 @@
     {
       "command": ".slow anj.com dur:8 port:8",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose ppp",
+      "status": "pending"
     }
   ]
 }
