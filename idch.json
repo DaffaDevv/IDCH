@@ -40,6 +40,10 @@
     {
       "command": ".forceclose hi",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose hi",
+      "status": "pending"
     }
   ]
 }
